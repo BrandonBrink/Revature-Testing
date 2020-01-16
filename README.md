@@ -1,2 +1,2 @@
 # Revature-Testing
-This "project" is only here right now to mess around with in class.
+This "project" is only here right now for testing in my Revature classroom.
